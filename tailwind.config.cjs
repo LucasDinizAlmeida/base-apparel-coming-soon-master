@@ -6,7 +6,7 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      sans: ['Josefin+Sans', 'sans-serif']
+      sans: ['Josefin Sans', 'sans-serif']
     },
     extend: {
       colors: {
