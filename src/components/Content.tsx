@@ -1,9 +1,5 @@
-import { FieldValues, SubmitHandler, useForm } from "react-hook-form"
-import * as yup from 'yup'
-import { yupResolver } from '@hookform/resolvers/yup'
 
 import { Header } from "./Header";
-import { Input } from "./Input";
 import { Form } from "./Form";
 
 
@@ -11,14 +7,6 @@ import { Form } from "./Form";
 export function Content() {
 
 
-
-  // const handleSignIn: SubmitHandler<SignInFormData> = async (values) => {
-  //   const { email } = values
-  //   setTimeout(() => {
-  //     console.log(email)
-
-  //   }, 3000)
-  // }
 
 
   return (
